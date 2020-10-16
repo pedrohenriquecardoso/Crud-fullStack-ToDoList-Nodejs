@@ -14,3 +14,51 @@
 * Express, mongoose, cors como dependecies
 * Utilizar nodemoon para ambiente de desenvolvimento
 
+#### Para fazer o clone do projeto digite no terminal do vs code:
+
+```
+"git clone https://github.com/pedrohenriquecardoso/Crud-fullStack-ToDoList-Nodejs.git"
+
+```
+
+#### Para fazer o download das dependencies digite no terminal:
+
+```
+"cd api"
+
+```
+```
+"npm install"
+
+```
+```
+"cd.."
+
+```
+```
+"cd app"
+
+```
+```
+"npm install"
+
+```
+
+#### Para rodar a api localmente digite no terminal:
+
+```
+"cd.."
+
+```
+```
+"cd api"
+
+```
+```
+"npm run dev"
+
+```
+
+
+
+
