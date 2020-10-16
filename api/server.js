@@ -1,6 +1,7 @@
 const express = require("express");
 var cors = require("cors");
 const ConnectDB = require("./db/mongodb");
+require('dotenv').config();
 
 const task = require("./routes/task");
 
